@@ -262,7 +262,7 @@ function MyApp({
   return (
     <ErrorBoundary>
       <Head
-        title="Acme NFT Marketplace"
+        title="Nico NFT Marketplace"
         description="The Web3 as a Service Company"
       >
         <meta
